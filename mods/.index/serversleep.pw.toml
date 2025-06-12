@@ -1,0 +1,16 @@
+filename = 'serversleep-datapack2.jar'
+name = 'Server Sleep'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2c0e6fbf24177233451295957b02f2105d9af14c8c5d681c7a871f51d07798b734165a8a60fe899c4e6871ef0de86f0f3bd8df2d7500bdcb1149c871aaeba9c7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Cw8IlnGM/versions/Yy52wehM/serversleep-datapack2.jar'
+
+[update.modrinth]
+mod-id = 'Cw8IlnGM'
+version = 'Yy52wehM'

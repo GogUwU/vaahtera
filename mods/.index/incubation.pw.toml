@@ -1,0 +1,16 @@
+filename = 'incubation-1.21.1-5.0.0.jar'
+name = 'Incubation'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a4d9e2da140343577a30781441fbf0766206313b86e15e4009901712bbbfae5ee30da08daa3886105ae494dfdb8c73085b0dfdf06efbfbe249c9923585417faa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/A4Xrv60A/versions/QcIN5yA2/incubation-1.21.1-5.0.0.jar'
+
+[update.modrinth]
+mod-id = 'A4Xrv60A'
+version = 'QcIN5yA2'

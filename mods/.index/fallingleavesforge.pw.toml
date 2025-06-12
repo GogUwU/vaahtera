@@ -1,0 +1,16 @@
+filename = 'fallingleaves-1.21-2.4.0.jar'
+name = 'Falling Leaves (NeoForge/Forge)'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '14e814297d6515c45ce75d00c775dd9d80c37b81996e51ac73fc36fae9f7ee0637b51ec8617c037b9e8de91479d6158c9991c8d69aa928f4f1b23cc7ff99a5cb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2JAUNCL4/versions/BCoUwPez/fallingleaves-1.21-2.4.0.jar'
+
+[update.modrinth]
+mod-id = '2JAUNCL4'
+version = 'BCoUwPez'

@@ -1,0 +1,50 @@
+/tick freeze
+/tick unfreeze
+/tp -121.5 184.00 -797.5
+/tick freeze
+/tp -121.5 184.00 -797.5
+/biolith describe at GogUwU
+/biolith describe at 237 68 -54
+/biolith help
+/time set day
+/weather clear
+/summon minecraft:iron_golem
+/time set day
+/setblock -339 95 -98 minecraft:end_portal
+/kill @e[type=!minecraft:player]
+/spark tps
+/stop
+/tp 0 ~ 0
+/setblock ~ ~ ~ minecraft:dirt
+/function gogserver:init
+/chunky cancel minecraft:overworld
+/chunky confirm
+/stop
+/function gogserver:10start
+/place jigsaw minecraft:village/plains/decor
+/place jigsaw minecraft:village/plains/decor 1 1 107 71 24
+/tp 0 100 0
+/tp 0 150 0
+/tp 0 250 0
+/seed
+/chunky start minecraft:overworld square 0 0 2000 2000
+/chunky cancel minecraft:overworld
+/chunky confirm
+/tp 0 250 0
+/chunky start minecraft:overworld square 0 0 750 750
+/chunky cancel minecraft:overworld
+/chunky confirm
+/tp 0 250 0
+/stop
+/tp 0 250 0
+/time set day
+/worldborder set 500 0
+/worldborder set 1000 0
+/worldborder set 1500 0
+/weather clear
+/time set day
+/tp 0 200 0
+/tp 0 300 0
+/worldborder set 200 0
+/execute as GogUwU at @s run worldborder center ~ ~
+/worldborder set 1200 0

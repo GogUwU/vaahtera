@@ -1,0 +1,16 @@
+filename = 'luminousblocks_1.1.0_neoforge_1.21.1.jar'
+name = 'Luminous Blocks'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c0198bf2f844a5cdbb53d279c3b479a3c31e217e33ef57c9178932d9a235927c60ff3e4de3c78b1779a43201a6675e772349643d7cd80b430d3f75ae6f988d77'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sE5eVkj4/versions/TDSuys2Q/luminousblocks_1.1.0_neoforge_1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'sE5eVkj4'
+version = 'TDSuys2Q'

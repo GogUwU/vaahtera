@@ -1,0 +1,16 @@
+filename = 'escalated-1.0.4+create.6.0.4-mc.1.21.1-neoforge.jar'
+name = 'Create: Escalated'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2a235b11f6a50a080f4884994d29e04d43747e6ee45183e658073e51463c067ffde3ebaa2bc2eea743e4d5554088b6fdacb44568b097b8d41585d43768fe3f9f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LyOBYG8Q/versions/rL79JOkA/escalated-1.0.4%2Bcreate.6.0.4-mc.1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'LyOBYG8Q'
+version = 'rL79JOkA'
