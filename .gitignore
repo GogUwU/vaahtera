@@ -17,3 +17,4 @@ usernamecache.json
 config/everycomp-hazardous.properties
 config/fabric/indigo-renderer.properties
 config/iris.properties
+command_history.txt
