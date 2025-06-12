@@ -19,3 +19,6 @@ config/fabric/indigo-renderer.properties
 config/iris.properties
 command_history.txt
 /fancymenu_data
+emi.json
+servers.dat_old
+realms_persistence.json
