@@ -26,3 +26,5 @@ realms_persistence.json
 /config/spark/tmp-client
 config/everycomp-hazardous.properties
 config/fabric/indigo-renderer.properties
+instance.cfg
+mmc-pack.json
