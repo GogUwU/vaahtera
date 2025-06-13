@@ -23,3 +23,6 @@ emi.json
 servers.dat_old
 realms_persistence.json
 /data
+/config/spark/tmp-client
+config/everycomp-hazardous.properties
+config/fabric/indigo-renderer.properties
