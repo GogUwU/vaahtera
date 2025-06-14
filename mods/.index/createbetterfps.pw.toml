@@ -1,16 +1,16 @@
-filename = 'Ponder-NeoForge-1.21.1-1.0.0.jar'
-name = 'CreateBetterFps'
-side = 'client'
+filename = 'Ponder-NeoForge-1.21.1-1.0.56.0.jar'
+name = 'Ponder'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'cfbabd49f8ddd4e5a00b972ad15cb8bc81ebbe35edc8ec69da824b02c799a9b30e266e9b3d244ef38ab3d48b60b857e8d16f188e65035c452f13d5ddb508934e'
+hash = '882ab063e6d87550d17237dffaeb3a49f0fbdf9dce476184e4342fa086b4e35696b4d0ba327aa5c45073f6baa7b5682fc021d2d39eecd259f42fd51d73b97c46'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/lMYIHZNH/versions/eYUsbRPG/Ponder-NeoForge-1.21.1-1.0.0.jar'
+url = 'https://cdn.modrinth.com/data/lMYIHZNH/versions/ZqZpI0nn/Ponder-NeoForge-1.21.1-1.0.56.0.jar'
 
 [update.modrinth]
 mod-id = 'lMYIHZNH'
-version = 'eYUsbRPG'
+version = 'ZqZpI0nn'

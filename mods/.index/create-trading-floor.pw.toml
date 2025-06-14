@@ -1,4 +1,4 @@
-filename = 'trading_floor-3.0.8.jar'
+filename = 'trading_floor-3.0.9.jar'
 name = 'Create: Trading Floor'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'b89cb7c485655542ab0805d571baee6dc53c2d5eea75b92ac9f17d78776f89ffd31e157dc6131dd226564d3c6245989ef48d2f18c829edb8c3360a357ffc75ed'
+hash = '2daee12bbe2620e92cd8003f06327ff46f5d98022bf1ac9e48519ffd14dcbedffb59630bfb1a31901c85e9b2600acbd1d311a62327cd6a29549b21edac7ff778'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/WROfLLvn/versions/WeGm5Ymd/trading_floor-3.0.8.jar'
+url = 'https://cdn.modrinth.com/data/WROfLLvn/versions/QYffRYWy/trading_floor-3.0.9.jar'
 
 [update.modrinth]
 mod-id = 'WROfLLvn'
-version = 'WeGm5Ymd'
+version = 'QYffRYWy'
