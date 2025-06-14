@@ -74,6 +74,9 @@
 			chocolate_cake = true
 			honey_cake = true
 
+		[types.cake.nomansland]
+			fruit_cake = true
+
 #Disables specific entries
 [entries]
 

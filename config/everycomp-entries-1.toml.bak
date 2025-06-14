@@ -41,6 +41,10 @@
 			willow = true
 			witch_hazel = true
 
+		[types.leaves_type.culturaldelights]
+			avocado = true
+			fruiting_avocado = true
+
 		[types.stone_type.arts_and_crafts]
 			gypsum = true
 			white_chalk = true

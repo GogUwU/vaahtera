@@ -15,6 +15,11 @@
 			willow = true
 			witch_hazel = true
 
+		[types.wood_type.enderscape]
+			veiled = true
+			celestial = true
+			murublight = true
+
 		[types.leaves_type.arts_and_crafts]
 			cork = true
 
@@ -56,6 +61,11 @@
 
 		[types.stone_type.nomansland]
 			polished_stone = true
+
+		[types.stone_type.enderscape]
+			mirestone = true
+			veradite = true
+			kurodite = true
 
 #Disables specific entries
 [entries]

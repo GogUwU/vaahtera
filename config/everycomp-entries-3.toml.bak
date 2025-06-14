@@ -41,10 +41,6 @@
 			willow = true
 			witch_hazel = true
 
-		[types.cake.createaddition]
-			chocolate_cake = true
-			honey_cake = true
-
 		[types.stone_type.arts_and_crafts]
 			gypsum = true
 			white_chalk = true

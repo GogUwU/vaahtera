@@ -26,6 +26,10 @@
 	bayou = true
 	#If the bog is enabled
 	bog = true
+	#If the dark taiga is enabled
+	darkTaiga = true
+	#If the frozen woods is enabled
+	frozenWoods = true
 
 [tap]
 	#Time is calculated in ticks. 20 ticks make 1 second.
@@ -39,10 +43,6 @@
 	ticksToFillCauldron = 80
 
 [monster_anchor]
-	#The radius around the monster anchor where monsters are anchored.
-	# Default: 5
-	# Range: 1 ~ 50
-	resurrectionRadius = 5
 	#The time between each resurrection from a monster anchor.
 	# Default: 80
 	# Range: 78 ~ 400

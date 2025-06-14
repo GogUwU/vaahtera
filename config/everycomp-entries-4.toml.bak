@@ -67,6 +67,9 @@
 			veradite = true
 			kurodite = true
 
+		[types.stone_type.dndecor]
+			cut_stone = true
+
 #Disables specific entries
 [entries]
 

@@ -1,3 +1,4 @@
+#For configuring the mob remodels, go to the mixed litter startup config!
 [overrides]
 	#If grass or mycelium spread to nearby dirt.
 	grassSpreads = true
