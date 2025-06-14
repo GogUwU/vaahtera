@@ -1,0 +1,9 @@
+type = panorama
+
+panorama-meta {
+  name = day
+  speed = 1
+  fov = 90.0
+  angle = 	360.0
+  start_rotation = 0
+}
