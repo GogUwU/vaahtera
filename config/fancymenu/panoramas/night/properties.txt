@@ -4,6 +4,6 @@ panorama-meta {
   name = night
   speed = 1.0
   fov = 85.0
-  angle = 25.0
+  angle = 0
   start_rotation = 0
 }
