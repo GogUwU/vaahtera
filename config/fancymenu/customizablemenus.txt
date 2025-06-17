@@ -33,9 +33,6 @@ net.minecraft.client.gui.screens.ProgressScreen {
 net.minecraft.client.gui.screens.ReceivingLevelScreen {
 }
 
-net.minecraft.client.gui.screens.ChatScreen {
-}
-
 net.neoforged.neoforge.client.gui.ModListScreen {
 }
 
