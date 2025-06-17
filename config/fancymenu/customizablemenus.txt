@@ -15,9 +15,6 @@ net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
 net.minecraft.client.gui.screens.ConnectScreen {
 }
 
-net.minecraft.client.gui.screens.options.OptionsScreen {
-}
-
 net.minecraft.client.gui.screens.multiplayer.SafetyScreen {
 }
 
@@ -37,5 +34,11 @@ net.minecraft.client.gui.screens.ReceivingLevelScreen {
 }
 
 net.minecraft.client.gui.screens.ChatScreen {
+}
+
+net.neoforged.neoforge.client.gui.ModListScreen {
+}
+
+net.minecraft.client.gui.screens.DisconnectedScreen {
 }
 
