@@ -1,4 +1,4 @@
-filename = 'Geophilic v3.4.1 f15-71.mod.jar'
+filename = 'Geophilic v3.4.2 f15-80.mod.jar'
 name = 'Geophilic'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
@@ -15,16 +15,17 @@ x-prismlauncher-mc-versions = [
     '1.21.2',
     '1.21.3',
     '1.21.4',
-    '1.21.5'
+    '1.21.5',
+    '1.21.6'
 ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '1dbe8c0fc76b802728d7b22585735da73e6e8c96932e35758243c24249b19ce932aaa740cde849eb73848639121548b24d9586106c96fabbe6fbb73f23c09e24'
+hash = 'e253d17d12f94227154cc045eb8c47f70b7119328792f28a52c8605560cc463b5aa00d254e50a29c4c37061353136bf82dc8ae8ccadac551f035925b8935ced5'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/hl5OLM95/versions/P4R9W6RV/Geophilic v3.4.1 f15-71.mod.jar'
+url = 'https://cdn.modrinth.com/data/hl5OLM95/versions/Z3bWyYpn/Geophilic v3.4.2 f15-80.mod.jar'
 
 [update.modrinth]
 mod-id = 'hl5OLM95'
-version = 'P4R9W6RV'
+version = 'Z3bWyYpn'
