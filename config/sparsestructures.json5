@@ -53,6 +53,10 @@
         "structure": "hexerei:owl_post_office",
         "factor": 2
     },
+    {
+        "structure": "hexerei:nature_coven",
+        "factor": 99999
+    },
     // add the structures you want to modify in the format:
     // (don't forget to remove "//", and use dots for decimal numbers)
     //
