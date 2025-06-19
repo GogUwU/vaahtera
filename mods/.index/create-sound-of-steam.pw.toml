@@ -1,0 +1,16 @@
+filename = 'pipeorgans-0.6.2+1.21.1.jar'
+name = 'Create: Sound of Steam'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'e100cb0f0b3aa536aa99731a100cbb7f44850fd28c9a871f04307469395b99425e30e6cb400cf8ac27a2f96818e908e9c56c35be56b941ecfd84134e98438e68'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yGttHo06/versions/SGKP3KqG/pipeorgans-0.6.2%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'yGttHo06'
+version = 'SGKP3KqG'
