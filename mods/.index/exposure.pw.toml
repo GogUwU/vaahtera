@@ -1,4 +1,4 @@
-filename = 'exposure-neoforge-1.21.1-1.9.9.jar'
+filename = 'exposure-neoforge-1.21.1-1.9.10.jar'
 name = 'Exposure'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'c3ea494fef7497663257fc20762c818b6d6dd1c429ce6450964c04ee835735a1a3710a2a0ec61ade285687973ebd07e9de5a56df3f6262644cce1fda0ec414b1'
+hash = '1f24226ce4dce073335a2598d3b63bc3aec72f7d0933e4d215060c3b25eca3b240a7063ee4c623a4d6cb1d6d2cfc33560fbed3f17eb7c21c2ca0f0b07615c86b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/hB899VmG/versions/fPPTM398/exposure-neoforge-1.21.1-1.9.9.jar'
+url = 'https://cdn.modrinth.com/data/hB899VmG/versions/wPQspUDc/exposure-neoforge-1.21.1-1.9.10.jar'
 
 [update.modrinth]
 mod-id = 'hB899VmG'
-version = 'fPPTM398'
+version = 'wPQspUDc'
