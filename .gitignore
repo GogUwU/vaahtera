@@ -64,3 +64,4 @@ config/sodium-options.json
 config/structure_layout_optimizer.jsonc
 config/tectonic.json
 config/vivecraft-client-config.json
+config/sodium-fingerprint.json
