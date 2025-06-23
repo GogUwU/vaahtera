@@ -3,14 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1750017972215
+  last_edited_time = 1750708373029
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
   universal_layout_blacklist = pause_screen;
-  [loading_requirement_container_meta:f276b689-a3d3-4ed8-a368-1ebab21b510b-1750018091990] = [groups:nighttime;][instances:]
+  [loading_requirement_container_meta:1e6c90db-090d-4735-9a88-def837ce7748-1750708354347] = [groups:nighttime;][instances:]
   [loading_requirement_group:nighttime] = [group_mode:or]
   [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if][group:nighttime][req_id:6a58c624-2528-4893-9194-691ecb7a1a7c-1749942489526] = ["mode":"smaller-than","number":"{"placeholder":"realtimehour"}","compare_with":"5"]$
   [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if][group:nighttime][req_id:1161a887-7a6f-4e16-8858-497d4682d444-1749942517126] = ["mode":"bigger-than","number":"{"placeholder":"realtimehour"}","compare_with":"21"]$
@@ -34,7 +34,7 @@ scroll_list_customization {
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
   show_screen_background_overlay_on_custom_background = false
-  apply_vanilla_background_blur = true
+  apply_vanilla_background_blur = false
 }
 
 layout_action_executable_blocks {
