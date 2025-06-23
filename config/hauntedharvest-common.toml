@@ -1,10 +1,10 @@
 [pumpkin_carving]
-	#Jack o Lantern carving mode
-	#Allowed Values: NONE, BOTH, GUI, MANUAL
-	jack_o_lantern_carve_mode = "MANUAL"
 	#Pumpkin carving mode
 	#Allowed Values: NONE, BOTH, GUI, MANUAL
 	pumpkin_carve_mode = "MANUAL"
+	#Jack o Lantern carving mode
+	#Allowed Values: NONE, BOTH, GUI, MANUAL
+	jack_o_lantern_carve_mode = "MANUAL"
 	#Allows custom carved pumpkins to be placed by villagers and appear in abandoned farm structure
 	custom_carvings = true
 

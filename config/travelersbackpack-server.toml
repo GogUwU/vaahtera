@@ -31,6 +31,8 @@
 		enableSleepingBagSpawnPoint = false
 		#Backpacks can only be equipped in the Curios/Accessories 'Back' slot, provided those mods are installed. If set to false, backpacks can only be equipped by clicking the button in the Backpack GUI. This setting can be changed without unequipping the backpack. An already equipped backpack will not disappear and can be retrieved from the player's inventory.
 		backSlotIntegration = true
+		#Prevents more than one player from accessing the backpack at the same time when it's placed on the ground
+		preventMultiplePlayersAccess = false
 
 		#Leather Tier Backpack Settings
 		[server.backpackSettings.leatherTierBackpack]
