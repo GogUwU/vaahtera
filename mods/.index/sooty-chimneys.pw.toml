@@ -1,0 +1,16 @@
+filename = 'sootychimneys-neoforge-1.3.3.jar'
+name = 'Sooty Chimneys'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '072e89de046ea21b0d189c0ff348a9bd6e61229bfcdf98d16efad9c5e72c88d7f61c9617ef6d5de212d24c5cc2ed493890d17482802302bc8e5c7d32168448af'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/b3w1XM9H/versions/JmonLy4J/sootychimneys-neoforge-1.3.3.jar'
+
+[update.modrinth]
+mod-id = 'b3w1XM9H'
+version = 'JmonLy4J'
