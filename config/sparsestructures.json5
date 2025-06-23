@@ -27,7 +27,7 @@
     },
     {
         "structure": "valhelsia_structures:castle",
-        "factor": 1.45
+        "factor": 1.85
     },
     {
         "structure": "valhelsia_structures:castle_ruin",
@@ -35,11 +35,11 @@
     },
     {
         "structure": "valhelsia_structures:desert_house",
-        "factor": 1.25
+        "factor": 1.0
     },
     {
         "structure": "valhelsia_structures:player_house",
-        "factor": 1.75
+        "factor": 1.85
     },
     {
         "structure": "valhelsia_structures:tower_ruin",
@@ -47,7 +47,7 @@
     },
     {
         "structure": "valhelsia_structures:forge",
-        "factor": 1.75
+        "factor": 1.85
     },
     {
         "structure": "hexerei:owl_post_office",
