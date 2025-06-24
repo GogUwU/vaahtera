@@ -100,7 +100,4 @@ ServerEvents.recipes(e => {
           r: 'minecraft:copper_ingot', 
       }).id('gearsandqueers:vox_humana')
     //points and stuff
-    // ['minecraft:dark_oak_log','nomansland:pine_log','hexerei:witch_hazel_log','minecraft:jungle_log','minecraft:birch_log','minecraft:spruce_log','nomansland:maple_log','minecraft:oak_log','minecraft:cherry_log']
-    // full list of logs needed i wasn't able to make this workd :(
-    //e.recipes.create.compacting(['kubejs:wood_package'], ['minecraft:dark_oak_log','nomansland:pine_log']).id('gearsandqueers:wood_package')
 })
