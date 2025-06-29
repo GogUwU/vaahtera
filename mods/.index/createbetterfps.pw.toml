@@ -1,16 +1,16 @@
-filename = 'Ponder-NeoForge-1.21.1-1.0.56.0.jar'
+filename = 'createbetterfps-1.21.1-1.1.jar'
 name = 'Ponder'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '882ab063e6d87550d17237dffaeb3a49f0fbdf9dce476184e4342fa086b4e35696b4d0ba327aa5c45073f6baa7b5682fc021d2d39eecd259f42fd51d73b97c46'
+hash = '6bacffe7a1553e22e44de9e5e9c75f3e77994c6e4609035b4c5dafc931adbb3218dd630675af885cd042c9b333e9f5020ad7d657eabca25ff81cc978b1f68b89'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/lMYIHZNH/versions/ZqZpI0nn/Ponder-NeoForge-1.21.1-1.0.56.0.jar'
+url = 'https://cdn.modrinth.com/data/lMYIHZNH/versions/TrBh3Pgu/createbetterfps-1.21.1-1.1.jar'
 
 [update.modrinth]
 mod-id = 'lMYIHZNH'
-version = 'ZqZpI0nn'
+version = 'TrBh3Pgu'

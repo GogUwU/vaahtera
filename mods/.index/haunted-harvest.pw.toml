@@ -1,4 +1,4 @@
-filename = 'hauntedharvest-1.21-3.3.3-neoforge.jar'
+filename = 'hauntedharvest-1.21-3.3.4-neoforge.jar'
 name = 'Haunted Harvest'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '8380bb7ff2e0630357196f35a02c381ea286970bda41d1ef513178dfd251a2e42490db6c3e3b49e514e7000ee66470bbd576372e1d5b67d720cd555a04ee6a6d'
+hash = '6c626d138f47f741bf29ef00b6f9ee892db75245a95f65803be3360c6634ce5978dade1b02d937cd55e171fa58caf552622a5fb7b47cf9203c2d18644b209819'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/a378ICDH/versions/Xtfhhztd/hauntedharvest-1.21-3.3.3-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/a378ICDH/versions/Dpgv0VQb/hauntedharvest-1.21-3.3.4-neoforge.jar'
 
 [update.modrinth]
 mod-id = 'a378ICDH'
-version = 'Xtfhhztd'
+version = 'Dpgv0VQb'

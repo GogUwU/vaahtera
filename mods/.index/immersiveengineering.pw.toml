@@ -1,4 +1,4 @@
-filename = 'ImmersiveEngineering-1.21.1-12.4.0-192.jar'
+filename = 'ImmersiveEngineering-1.21.1-12.4.1-193.jar'
 name = 'Immersive Engineering'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '076373756d7eda8fd8630c8918230b014f67c12796d5ceca60981a349721b5862784b615d6f68f58b72755415e66066f0b5abb72a72cde9bed5f1c40751f8d3e'
+hash = 'a21d7d4bd62f6bd7bb2c8e83742e8456ecb3dacc962c57998af63f3406f1c93f47f365fd9b466583f0cc884a27a7ab868732e384e786fce9fe30a7c7a74c5e22'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/tIm2nV03/versions/xDZWulIs/ImmersiveEngineering-1.21.1-12.4.0-192.jar'
+url = 'https://cdn.modrinth.com/data/tIm2nV03/versions/6G3o1s7e/ImmersiveEngineering-1.21.1-12.4.1-193.jar'
 
 [update.modrinth]
 mod-id = 'tIm2nV03'
-version = 'xDZWulIs'
+version = '6G3o1s7e'
