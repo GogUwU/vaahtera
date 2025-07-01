@@ -1,0 +1,36 @@
+{
+  "type": "create:compacting",
+  "ingredients": [{
+      "item": "kubejs:wood_package"
+    },
+    {
+      "item": "kubejs:wood_package"
+    },
+    {
+      "item": "kubejs:wood_package"
+    },
+    {
+      "item": "kubejs:wood_package"
+    },
+    {
+      "item": "kubejs:stone_package"
+    },
+    {
+      "item": "kubejs:stone_package"
+    },
+    {
+      "item": "kubejs:stone_package"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "results": [
+    {
+      "id": "kubejs:border_point"
+    }
+  ]
+}

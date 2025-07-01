@@ -1,0 +1,36 @@
+{
+  "type": "create:compacting",
+  "ingredients": [{
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:stone_bricks"
+    },
+    {
+      "item": "minecraft:stone_bricks"
+    },
+    {
+      "item": "minecraft:stone_bricks"
+    },
+    {
+      "item": "nomansland:cobblestone_bricks"
+    },
+    {
+      "item": "nomansland:cobblestone_bricks"
+    },
+    {
+      "item": "nomansland:cobblestone_bricks"
+    }
+  ],
+  "results": [
+    {
+      "id": "kubejs:stone_package"
+    }
+  ]
+}
