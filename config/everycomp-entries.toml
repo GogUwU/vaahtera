@@ -59,9 +59,6 @@
 			scoria = true
 			scorchia = true
 
-		[types.stone_type.nomansland]
-			polished_stone = true
-
 		[types.stone_type.enderscape]
 			mirestone = true
 			veradite = true
