@@ -90,14 +90,38 @@ ServerEvents.recipes(e => {
 //           e: 'pipeorgans:dark_oak_boot',
 //           r: 'minecraft:copper_ingot',
 //       }).id('gearsandqueers:posaune')
-//
-//     e.shaped('pipeorgans:vox_humana', [
-//         ' a ',
-//         ' e ',
-//         ' r '
-//         ], {
-//           a: 'create:brass_sheet',
-//           e: 'pipeorgans:copper_boot',
-//           r: 'minecraft:copper_ingot',
-//       }).id('gearsandqueers:vox_humana')
+
+
+//      a way of compessing points
+        e.shaped('kubejs:compressed_border_point', [
+            'aaa',
+            'aaa',
+            'aaa'
+            ], {
+            a: 'kubejs:border_point',
+        }).id('gearsandqueers:9_compressed_border_point')
+
+        e.shaped('kubejs:super_compressed_border_point', [
+            'aaa',
+            'aaa',
+            'aaa'
+        ], {
+            a: 'kubejs:compressed_border_point',
+        }).id('gearsandqueers:9_super_compressed_border_point')
+
+        e.shaped('kubejs:border_point_singularity', [
+            'aaa',
+            'aaa',
+            'aaa'
+        ], {
+            a: 'kubejs:super_compressed_border_point',
+        }).id('gearsandqueers:9_border_point_singularity')
+
+//      un compressing points
+        e.shapeless('9x kubejs:super_compressed_border_point', ['kubejs:border_point_singularity']).id('gearsandqueers:un_comp_border_point_singularity')
+        e.shapeless('9x kubejs:compressed_border_point', ['kubejs:super_compressed_border_point']).id('gearsandqueers:un_comp_super_compressed_border_point')
+        e.shapeless('9x kubejs:border_point', ['kubejs:compressed_border_point']).id('gearsandqueers:un_comp_compressed_border_point')
+
+//      :D
+        e.shapeless('64x minecraft:cod', ['minecraft:bedrock']).id('gearsandqueers:fish')
 })
