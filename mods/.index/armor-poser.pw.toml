@@ -1,4 +1,4 @@
-filename = 'ArmorPoser-neoforge-1.21.1-6.2.1.jar'
+filename = 'ArmorPoser-neoforge-1.21.1-6.2.2.jar'
 name = 'Armor Poser'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a3af0ec23e482312d865ab7a2e76c4262f0056f717a93321d1e7fa8d81cd086c0b15417e5927b85c754efa537e817d34acf949af02c482b5b2d43e2f6b859656'
+hash = '4a1567f157ae311bab73e74c5d86f9b446bbf3b7bbb2bd5cd30481377861cb8932df3faa072d5af5dce2ae1c321064f5ea0694a2424692c18df24b28a516db4c'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/PFwYNrHb/versions/WAivGEkl/ArmorPoser-neoforge-1.21.1-6.2.1.jar'
+url = 'https://cdn.modrinth.com/data/PFwYNrHb/versions/V170GebO/ArmorPoser-neoforge-1.21.1-6.2.2.jar'
 
 [update.modrinth]
 mod-id = 'PFwYNrHb'
-version = 'WAivGEkl'
+version = 'V170GebO'
