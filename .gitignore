@@ -67,3 +67,5 @@ config/vivecraft-client-config.json
 config/sodium-fingerprint.json
 *.bak
 /debug
+config/fabric/indigo-renderer.properties
+config/everycomp-hazardous.properties
