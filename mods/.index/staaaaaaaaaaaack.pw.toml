@@ -1,16 +1,16 @@
-filename = 'staaaaaaaaaaaack-neoforge-1.21-1.5-75.jar'
-name = 'Staaaaaaaaaaaack (Stxck)'
+filename = 'staaaaaaaaaaaack-neoforge-1.21.1-1.7.jar'
+name = 'Staaaaaaaaaaaack'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '7f76afa833200faf96a05c3189dffb6aeb0d67a6d51066dc83e2d14a8da92a5947cf90760aaaa3729be8a6a6437131f272a4d5dc8299ab81d3d16648991274bf'
+hash = '79cb29b8438b4b0465cd38949af84f530a3c49668e8748a549c1b976e80a23cd337e55e45260c9972a4d1decabdab9f5a86fc596c34a6d6c79122b5e2edbbd98'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/myL7fuqp/versions/gfDUQGpw/staaaaaaaaaaaack-neoforge-1.21-1.5-75.jar'
+url = 'https://cdn.modrinth.com/data/myL7fuqp/versions/1nJSkktV/staaaaaaaaaaaack-neoforge-1.21.1-1.7.jar'
 
 [update.modrinth]
 mod-id = 'myL7fuqp'
-version = 'gfDUQGpw'
+version = '1nJSkktV'
