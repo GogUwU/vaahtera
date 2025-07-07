@@ -1,0 +1,13 @@
+{
+  "feature": "blooming_biosphere:caves/diorite",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 40
+    },
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 1
+    }
+  ]
+}
