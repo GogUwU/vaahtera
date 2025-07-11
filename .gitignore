@@ -69,3 +69,4 @@ config/sodium-fingerprint.json
 /debug
 config/fabric/indigo-renderer.properties
 config/everycomp-hazardous.properties
+/config/voicechat
