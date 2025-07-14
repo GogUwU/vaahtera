@@ -20,6 +20,16 @@
 			celestial = true
 			murublight = true
 
+		[types.wood_type.aether]
+			skyroot = true
+
+		[types.wood_type.deep_aether]
+			roseroot = true
+			yagroot = true
+			cruderoot = true
+			conberry = true
+			sunroot = true
+
 		[types.leaves_type.arts_and_crafts]
 			cork = true
 
@@ -45,6 +55,24 @@
 			avocado = true
 			fruiting_avocado = true
 
+		[types.leaves_type.aether]
+			golden_oak = true
+			holiday = true
+			decorated_holiday = true
+			crystal = true
+			crystal_fruit = true
+			skyroot = true
+
+		[types.leaves_type.deep_aether]
+			flowering_roseroot = true
+			blue_roseroot = true
+			flowering_blue_roseroot = true
+			roseroot = true
+			yagroot = true
+			cruderoot = true
+			conberry = true
+			sunroot = true
+
 		[types.stone_type.arts_and_crafts]
 			gypsum = true
 			white_chalk = true
@@ -67,12 +95,20 @@
 		[types.stone_type.dndecor]
 			cut_stone = true
 
+		[types.stone_type.deep_aether]
+			clorite = true
+			raw_clorite = true
+			aseterite = true
+
 		[types.cake.createaddition]
 			chocolate_cake = true
 			honey_cake = true
 
 		[types.cake.nomansland]
 			fruit_cake = true
+
+		[types.mud_type.deep_aether]
+			aether_mud = true
 
 #Disables specific entries
 [entries]
