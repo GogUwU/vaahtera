@@ -1,4 +1,4 @@
-filename = 'midnightlib-1.6.9-neoforge+1.21.jar'
+filename = 'midnightlib-1.7.5-neoforge+1.21.1.jar'
 name = 'MidnightLib'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '27f94841f7c357a31e7c4daaaeb38bbb8c6be3820644028b52f1b91228fc0856339354d2da4afa89752793560585286d7617bc1667bb9f57e5ef2a83f9d55638'
+hash = '8471ce6c8124c80164e46868bd6984f467291a5bdf883b271b261f712a204b2121073756fe9f54adc6b87b86bc5e2208121cc759242e31f37d97e54d46b263ba'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/codAaoxh/versions/tUbl6MZ4/midnightlib-1.6.9-neoforge%2B1.21.jar'
+url = 'https://cdn.modrinth.com/data/codAaoxh/versions/HIlaYrgj/midnightlib-1.7.5-neoforge%2B1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'codAaoxh'
-version = 'tUbl6MZ4'
+version = 'HIlaYrgj'

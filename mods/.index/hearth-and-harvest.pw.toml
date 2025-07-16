@@ -1,4 +1,4 @@
-filename = 'hearthandharvest-1.21.1-1.0.8.jar'
+filename = 'hearthandharvest-1.21.1-1.0.9.jar'
 name = 'Hearth and Harvest'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '8d52fe812888e0521095486b14f81dae6d4bbf06df745314071ded4d03053765fa067d056cbe94d931e83d378f7dcf186c89b8f6d86019f091d24dea303dabdc'
+hash = '61c3fcd9d1dc982ef422e3dabb9a24f9379625779f253d8efb960d5991fe29994c960e5ed42f45ee4e17af9e0337d87907755776cdac54f10c94e0ca7916868b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/8EEEXOzj/versions/RC4ILVtJ/hearthandharvest-1.21.1-1.0.8.jar'
+url = 'https://cdn.modrinth.com/data/8EEEXOzj/versions/MLE6Jxa9/hearthandharvest-1.21.1-1.0.9.jar'
 
 [update.modrinth]
 mod-id = '8EEEXOzj'
-version = 'RC4ILVtJ'
+version = 'MLE6Jxa9'
