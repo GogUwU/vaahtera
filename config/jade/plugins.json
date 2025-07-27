@@ -52,6 +52,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
   "treechop": {
     "plugin": true,
     "show_tree_block_counts": true,
