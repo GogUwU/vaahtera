@@ -1,5 +1,5 @@
 filename = 'moredelight-25.05.14-1.21-neoforge.jar'
-name = 'More Delight'
+name = "More Delight (for Farmer's Delight)"
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

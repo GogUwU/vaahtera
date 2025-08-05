@@ -1,16 +1,16 @@
-filename = 'portfolio-1.21-1.4.1-neoforge.jar'
+filename = 'portfolio-1.21.1-1.4.1-neoforge.jar'
 name = 'Portfolio'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'e177108393ccbdcde61eb5b82646c3a238f411ed4269db66c5ee6e614390a78f9a2d7ed9db40cd345aaa987440f5d814852e98e50688a18e1c9278501a20c9c8'
+hash = '525b1a14d9b4e958a655909ac3fe17cd13905d96aa98924a3a9d2131b4340d0adb1f34ae5defa6dcdc35fd8b3779ef6e340e1fd6a4aeab3a093743012e0d5ceb'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/2k6aLirX/versions/ok2l9sHm/portfolio-1.21-1.4.1-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/2k6aLirX/versions/s4NFJY84/portfolio-1.21.1-1.4.1-neoforge.jar'
 
 [update.modrinth]
 mod-id = '2k6aLirX'
-version = 'ok2l9sHm'
+version = 's4NFJY84'

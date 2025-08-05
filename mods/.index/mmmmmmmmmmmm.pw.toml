@@ -1,4 +1,4 @@
-filename = 'dummmmmmy-1.21-2.0.8-neoforge.jar'
+filename = 'dummmmmmy-1.21-2.0.9-neoforge.jar'
 name = 'MmmMmmMmmMmm'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '7af95739e7ef848000767364f8176c8473a461291e3c214215632a09a081d1baed4516f752c8adb9109004c69625c636c912fe902765a1b76b5d1958f880233f'
+hash = '88aea5cd83df3c376ba520571dd2e17f9213a7ebd1d2023bfe137b3cf51f3c5e070d3569b34f4f42ed865e7dd711c48d55b422e1347cebe3e0d840b9b45af518'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Adega8YN/versions/J1XcbT7Q/dummmmmmy-1.21-2.0.8-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/Adega8YN/versions/NXooLzAf/dummmmmmy-1.21-2.0.9-neoforge.jar'
 
 [update.modrinth]
 mod-id = 'Adega8YN'
-version = 'J1XcbT7Q'
+version = 'NXooLzAf'
