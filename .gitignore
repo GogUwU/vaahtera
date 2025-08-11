@@ -70,3 +70,5 @@ config/sodium-fingerprint.json
 config/fabric/indigo-renderer.properties
 config/everycomp-hazardous.properties
 /config/voicechat
+/config/ars_nouveau/search_index
+/config/ars_nouveau/search_index
