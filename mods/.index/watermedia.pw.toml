@@ -1,4 +1,4 @@
-filename = 'watermedia-2.1.29.jar'
+filename = 'watermedia-2.1.30.jar'
 name = 'WaterMedia'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.16.5', '1.18.2', '1.19.2', '1.20.1', '1.21.1'
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '85eac1afaa91125a0f03621f9f2ee8ba03669f3a556c6c92ded1cf71871a7b7deea3322357041657f34124da937715dd86044b6545eaed4d5ca866ae7404ea21'
+hash = '4793fd5c1f9896679eb03ff9f2a1aa244f242bf5eef4b90f156d79a10b2883de878bc7a63f423a13f4bfcd1d7e8b8e2113970f7eebd53421d55c0ceb1b87a1ca'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/G922NeHS/versions/hjOBO3Hp/watermedia-2.1.29.jar'
+url = 'https://cdn.modrinth.com/data/G922NeHS/versions/o2Z6JjwX/watermedia-2.1.30.jar'
 
 [update.modrinth]
 mod-id = 'G922NeHS'
-version = 'hjOBO3Hp'
+version = 'o2Z6JjwX'

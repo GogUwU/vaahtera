@@ -1,4 +1,4 @@
-filename = 'artistry-1.7.1.jar'
+filename = 'artistry-1.7.2.jar'
 name = 'Artistry'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'ef538207e03ab55b88ca42f19cf5fd930468ffc5dc7fd66fc7b824be322c736b73b0342fac4be7954a643b4274938fd813894fb1c554f01c2fa09e86fed1aa7e'
+hash = 'df9616aff71589695b9541976bfbb2558f9405fc6a1c84b3d6ec3030dbe399ee54b014eecd70191d1fb73aef3de8380b60ab8843a452db784b2c64efc9814cd2'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/g4cVTlPw/versions/SZsN71Y6/artistry-1.7.1.jar'
+url = 'https://cdn.modrinth.com/data/g4cVTlPw/versions/OrPixeSh/artistry-1.7.2.jar'
 
 [update.modrinth]
 mod-id = 'g4cVTlPw'
-version = 'SZsN71Y6'
+version = 'OrPixeSh'

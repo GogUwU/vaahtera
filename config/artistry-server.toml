@@ -1,0 +1,3 @@
+[tweaks]
+	#Toggles some changes to how blocks can be placed, such as Lanterns being placed on the underside of leaves.
+	survivability_changes = false
