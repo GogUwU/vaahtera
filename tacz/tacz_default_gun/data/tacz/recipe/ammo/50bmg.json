@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:plates/brass"
+      },
+      "count": 50
+    },
+    {
+      "item": {
+        "tag": "c:gunpowders"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "tag": "c:gems/lapis"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "c:rods/blaze"
+      }
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "tacz:50bmg",
+    "count": 32
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

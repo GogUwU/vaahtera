@@ -1,0 +1,22 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:plates/brass"
+      },
+      "count": 7
+    },
+    {
+      "item": {
+        "tag": "c:gunpowders"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "tacz:556x45",
+    "count": 45
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}
