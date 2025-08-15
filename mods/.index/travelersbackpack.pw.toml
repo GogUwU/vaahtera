@@ -1,16 +1,16 @@
-filename = 'travelersbackpack-neoforge-1.21.1-10.1.22.jar'
+filename = 'travelersbackpack-neoforge-1.21.1-10.1.23.jar'
 name = "Traveler's Backpack"
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'eb1dd477e3e110112756e34b9bca70fa3c8ed0f6cfd598cd030c8cf2ecc14253c32240efd6863e085d85853cf457fba010003878fa72c5245acfdff28c10bab8'
+hash = 'd7307a592057cf908354426e41a90c8713d91397eb6ebc3e5ca50a2499074cf57eeecf0dfd0a5213b45b39b1771c0a4ce8ad61a38c779f42faf103ce48beae85'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/rlloIFEV/versions/X4veh15G/travelersbackpack-neoforge-1.21.1-10.1.22.jar'
+url = 'https://cdn.modrinth.com/data/rlloIFEV/versions/41RS1Evh/travelersbackpack-neoforge-1.21.1-10.1.23.jar'
 
 [update.modrinth]
 mod-id = 'rlloIFEV'
-version = 'X4veh15G'
+version = '41RS1Evh'

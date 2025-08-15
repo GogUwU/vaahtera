@@ -1,4 +1,4 @@
-filename = 'luminousblocks-1.2.0-neoforge-1.21.1.jar'
+filename = 'luminousblocks-1.3.0-neoforge-1.21.1.jar'
 name = 'Luminous Blocks'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '804d018d39195076d46d632cd0074458aac5f1208f7f68ac2196af126bae6bbc643288dffe9ed60895e14bf8a558398e06591b6fdece45bc0d5f3ef49b9fec0f'
+hash = 'be62de4eebfc890d025881c187e9225f6324a0fb6eac19b9f8b163e49fa4a8fb328c062c95d5cbec90a0948afb1d9f494d7ad616db5c3633cccac3b2cd99db83'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/sE5eVkj4/versions/oyAGxQLJ/luminousblocks-1.2.0-neoforge-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/sE5eVkj4/versions/2UPRr3qV/luminousblocks-1.3.0-neoforge-1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'sE5eVkj4'
-version = 'oyAGxQLJ'
+version = '2UPRr3qV'
