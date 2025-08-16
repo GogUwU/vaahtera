@@ -22,11 +22,11 @@
 	#Effectively, this is the *floor* for which reception power can reduce travel distance to. Defaults to 20.
 	receptionFloor = 10
 	#This is the transmission power for frequency modulation. Defaults to 1000.
-	transmissionPowerFM = 1000
+	transmissionPowerFM = 1250
 	#This is the threshold of transmission power in frequency modulation at which it begins to have an auditory effect. Defaults to 200.
 	diminishThresholdFM = 200
 	#This is the range after which players can no longer be heard for amplitude modulation. Defaults to 1800.
-	transmissionPowerAM = 1800
+	transmissionPowerAM = 1900
 	#This is the threshold of transmission power in amplitude modulation at which it begins to have an auditory effect. Defaults to 300.
 	diminishThresholdAM = 300
 	#This is the method of diminishment to use. ADDITIVE subtracts a flat amount, while MULTIPLICATIVE subtracts a percentage from the initial transmission power. Defaults to ADDITIVE.
