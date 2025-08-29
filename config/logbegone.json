@@ -5,8 +5,9 @@
       "Channels "
     ],
     "regex": [
-      "/Server has RightClickHarvest installed, but the hello packet was not received before timeout/gm",
+      "[a-zA-Z0-9_ \]\[\:\/,]*Right Click Harvest[a-zA-Z0-9_ \]\[\:\/,]*timeout",
       "Channels "
     ]
   }
 }
+
