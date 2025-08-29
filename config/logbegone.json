@@ -1,0 +1,12 @@
+{
+  "logbegone": {
+    "phrases": [
+      "test_thing",
+      "Channels "
+    ],
+    "regex": [
+      "/Server has RightClickHarvest installed, but the hello packet was not received before timeout/gm",
+      "Channels "
+    ]
+  }
+}

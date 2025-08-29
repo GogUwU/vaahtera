@@ -1,4 +1,4 @@
-filename = 'tectonic-3.0.8-neoforge-1.21.1.jar'
+filename = 'tectonic-3.0.12-neoforge-1.21.1.jar'
 name = 'Tectonic'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '7b08719d0fe15cbed150235b4957f38977b049538217172f0ea013b01efeb8ba2585793d1bcc4908cf82fa12256e0e2fd8f545f4276e3d239a26545a10728b3f'
+hash = 'db75085ff7a1df74815871838173797bf2fb447914c9fbdaeced49fa3ceac3486b827b3eaaf00eadacf74b55214c801e321e7ab457deb68e84db7cbe344661f5'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/lWDHr9jE/versions/f7Edf37U/tectonic-3.0.8-neoforge-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/lWDHr9jE/versions/bI5cwLwn/tectonic-3.0.12-neoforge-1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'lWDHr9jE'
-version = 'f7Edf37U'
+version = 'bI5cwLwn'

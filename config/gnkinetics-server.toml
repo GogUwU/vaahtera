@@ -52,6 +52,8 @@
 			large_brass_gear = 0.0
 			tiny_cogwheel = 0.0
 			shaftless_andesite_cogwheel = 0.0
+			large_magnet_gear = 0.0
+			magnet_gear = 0.0
 
 		#.
 		#[in Stress Units]
