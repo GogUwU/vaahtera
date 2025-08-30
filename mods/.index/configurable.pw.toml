@@ -1,4 +1,4 @@
-filename = 'configurable-3.2.5+1.21.1-neoforge.jar'
+filename = 'configurable-3.2.6+1.21.1-neoforge.jar'
 name = 'Configurable'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5'
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '6dc134a01fdffdd3479c890fe48ea96c5dc2ea2483ce715e5a42879207801cc116d08ede4a7c40f77615edb4c46fec7e5d7bde4b0e7226da9c306fc9b31465c6'
+hash = '98b97b2eecb42b11cd0002654ed9643c631b5c8eaa6b88ffea90ef9f84bcbe440094086e7335b14efe759ca1169971d2609d55772aed4a88198e458956324f7d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/lGffrQ3O/versions/d16JfjUH/configurable-3.2.5%2B1.21.1-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/lGffrQ3O/versions/vuInqp8c/configurable-3.2.6%2B1.21.1-neoforge.jar'
 
 [update.modrinth]
 mod-id = 'lGffrQ3O'
-version = 'd16JfjUH'
+version = 'vuInqp8c'
