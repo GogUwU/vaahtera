@@ -1,0 +1,16 @@
+filename = 'SimplyHarvesting-1.21-3.0.0.jar'
+name = 'Simply Harvesting'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '55a5e43fcc6abf5ac1daf63071b5c199ed74ae4c3d96a92e61eb73995ae370970ecacf66377f32763e96c4296d1cea524ce927281533196492a7a230a19d6249'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/P4FVY4ll/versions/Dh57DH4K/SimplyHarvesting-1.21-3.0.0.jar'
+
+[update.modrinth]
+mod-id = 'P4FVY4ll'
+version = 'Dh57DH4K'
