@@ -1,4 +1,4 @@
-filename = 'createaddition-1.5.2.jar'
+filename = 'createaddition-1.5.3.jar'
 name = 'Create Crafts & Additions'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'c3292153f95509a3e493955afbfbb87110a06d41a76fbf87b88447727ab86091787f5e8845961044c7a7f18910533b3443660b830a07bafcdadd6748bab1b7f5'
+hash = '09dc9cb40d41920fe2ac043a292acf19d7cf4ab24f7864beb729375dd8e84c48e4131150f3189dfd4e4c0d003481b97ab334652719162b7cb69e20b173c2e6a1'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/kU1G12Nn/versions/WrlIVx0v/createaddition-1.5.2.jar'
+url = 'https://cdn.modrinth.com/data/kU1G12Nn/versions/A5IpLV4E/createaddition-1.5.3.jar'
 
 [update.modrinth]
 mod-id = 'kU1G12Nn'
-version = 'WrlIVx0v'
+version = 'A5IpLV4E'

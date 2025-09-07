@@ -119,12 +119,7 @@
 			aseterite = true
 
 		[types.stone_type.ars_nouveau]
-			sourcestone = true
 			sconce = true
-
-		[types.stone_type.immersiveengineering]
-			hempcrete = true
-			concrete = true
 
 		[types.stone_type.aether]
 			holystone = true

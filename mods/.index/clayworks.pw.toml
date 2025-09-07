@@ -1,4 +1,4 @@
-filename = 'clayworks-1.21.1-4.0.0.jar'
+filename = 'clayworks-1.21.1-4.0.1.jar'
 name = 'Clayworks'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '28ee06bb592949fb3747c045f5772b72ee87f8da21448a439cc37db235bd5e1d3a0ff5f94915fc98f6df0bceeced18a5be3e2f1f0bf7cc8698a36ba3e4177733'
+hash = '044ab396a182e22b38dd0f55a03319fc0813f9fbbf46d902c77b78005084bcda46623dcacda031c3876a0bbcd72bc8cf3dc4a65f8ddf8e1cab7d5ab36d188662'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/1iicrEO3/versions/jwuaMj8q/clayworks-1.21.1-4.0.0.jar'
+url = 'https://cdn.modrinth.com/data/1iicrEO3/versions/sgBF4A0i/clayworks-1.21.1-4.0.1.jar'
 
 [update.modrinth]
 mod-id = '1iicrEO3'
-version = 'jwuaMj8q'
+version = 'sgBF4A0i'

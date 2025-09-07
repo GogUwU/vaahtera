@@ -1,4 +1,4 @@
-filename = 'flerovium-neoforge-1.21.1-1.0.10-all.jar'
+filename = 'flerovium-neoforge-1.21.1-1.0.12-all.jar'
 name = 'Flerovium'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = 'eee3195e1badf9be8a2238331be96efd45786bd01cfb4affe82f28837609aa433164b20a4b55db9cfadd133dc8603c5c142c247fa4b6df835a0dfba94e364325'
+hash = 'f23be8d849d9a31f2f976943d8e68982831cd7477ec6ee3fc3407d34c6200f0e40351e345d5884373918b0b4e152ab6277213fb95ad888ddc75eeddcd11ebb73'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/4Rh1Mobu/versions/vNcAVVK0/flerovium-neoforge-1.21.1-1.0.10-all.jar'
+url = 'https://cdn.modrinth.com/data/4Rh1Mobu/versions/hOUt9RRg/flerovium-neoforge-1.21.1-1.0.12-all.jar'
 
 [update.modrinth]
 mod-id = '4Rh1Mobu'
-version = 'vNcAVVK0'
+version = 'hOUt9RRg'
