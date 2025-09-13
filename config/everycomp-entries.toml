@@ -91,6 +91,9 @@
 			purple_archwood = true
 			red_archwood = true
 
+		[types.leaves_type.ars_elemental]
+			yellow_archwood = true
+
 		[types.stone_type.arts_and_crafts]
 			gypsum = true
 			white_chalk = true
