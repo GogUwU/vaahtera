@@ -78,3 +78,6 @@ config/fabric/indigo-renderer.properties
 /tacz_backup
 /immersive_paintings_cache
 config/packetfixer.properties
+/dynamic-resource-pack-cache
+/dynamic-resource-pack-cache
+/dynamic-data-pack-cache
