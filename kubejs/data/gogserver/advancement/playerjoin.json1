@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "join": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "periodic_tick": 1
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "join"
+    ]
+  ],
+  "rewards": {
+    "function": "gogserver:playerjoin"
+  }
+}

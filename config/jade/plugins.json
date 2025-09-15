@@ -52,16 +52,18 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "ars_nouveau": {
-    "mob_jar": true
-  },
   "treechop": {
     "plugin": true,
     "show_tree_block_counts": true,
     "show_num_chops_remaining": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
+  "tempad": {
+    "chronon": true,
+    "rudimentary": true,
+    "metronome": true,
+    "anchor": true,
+    "workstation": true,
+    "timedoor": true
   },
   "jadeaddons.create": {
     "filter": true,
@@ -73,10 +75,6 @@
     "goggles.detailed": false,
     "placard": true
   },
-  "exposure": {
-    "lightroom": true,
-    "photograph_frame": true
-  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -86,9 +84,6 @@
   },
   "immersiveengineering": {
     "multiblock_icon": true
-  },
-  "supplementaries": {
-    "hat_stand": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -100,6 +95,19 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
+  "supplementaries": {
+    "hat_stand": true
   },
   "corpse": {
     "corpse": true

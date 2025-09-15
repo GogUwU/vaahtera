@@ -1,16 +1,16 @@
-filename = 'biolith-neoforge-3.0.6.jar'
+filename = 'biolith-neoforge-3.0.8.jar'
 name = 'Biolith'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '9dc3525cad6a28512fc198b6bc171d8dd1b431112a942b3c500b2d81b88825ffd25f1f0d7f4e065a064bfef9cb4df4c54d15471f8d28ccba394cb62111dc8a94'
+hash = '77a916b5c8cec27dd28ef6995036ad7af5a6170199d337ef3dec9c68f0ca637c3bc8dd96c2fa064bde4841787a38989cc7e41e8ef1ebc976305c251e26622633'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/iGEl6Crx/versions/hd0IDIF5/biolith-neoforge-3.0.6.jar'
+url = 'https://cdn.modrinth.com/data/iGEl6Crx/versions/uSSmNm62/biolith-neoforge-3.0.8.jar'
 
 [update.modrinth]
 mod-id = 'iGEl6Crx'
-version = 'hd0IDIF5'
+version = 'uSSmNm62'

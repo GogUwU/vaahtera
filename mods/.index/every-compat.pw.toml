@@ -1,4 +1,4 @@
-filename = 'everycomp-1.21-2.11.2-neoforge.jar'
+filename = 'everycomp-1.21-2.11.3-neoforge.jar'
 name = 'Every Compat'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '36457bd0762a43070b467ac10e9d91343539bb3000b4a3da180a2bac41c2227d2392dd878a1a151725ccb7e5e93114a5c4a388a83bc9fe471165465adf2095fb'
+hash = '74ed6f7f7676d4e63ec332e8fe5750276245df005a41f87a5c1ca6216effe226653afb1344b72c624985e901450aba407487cf98fc4a59caeca394062408d540'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/eiktJyw1/versions/99895aRg/everycomp-1.21-2.11.2-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/eiktJyw1/versions/5FI6vyKW/everycomp-1.21-2.11.3-neoforge.jar'
 
 [update.modrinth]
 mod-id = 'eiktJyw1'
-version = '99895aRg'
+version = '5FI6vyKW'

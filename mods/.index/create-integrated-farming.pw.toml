@@ -1,4 +1,4 @@
-filename = 'create-integrated-farming-1.1.0.jar'
+filename = 'create-integrated-farming-1.1.1.jar'
 name = 'Create: Integrated Farming'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '5d0be8e8d80b120b5314da343ec477fe317a4b736db5f1a9941186e8cba87925386e959d0516f73df3a269e1bbf44a191a52136641b9df5ee69d75a649ba3178'
+hash = '97a378800610e7f068ae2d458781d2ccf02af9d212be7a60f120bce3435c862dd1bbe4be0cdd107e6ed5ff0f206e53161ef36470163d8776860f67c9ee3ea8e6'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/9k1pAsfR/versions/qui5reGn/create-integrated-farming-1.1.0.jar'
+url = 'https://cdn.modrinth.com/data/9k1pAsfR/versions/bAXRBciL/create-integrated-farming-1.1.1.jar'
 
 [update.modrinth]
 mod-id = '9k1pAsfR'
-version = 'qui5reGn'
+version = 'bAXRBciL'

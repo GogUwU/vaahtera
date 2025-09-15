@@ -1,4 +1,7 @@
 ServerEvents.recipes(e => {
+    e.remove({ id: 'everycomp:fd/cutting/ars_nouveau/archwood_log' })
+    e.remove({ id: 'everycomp:fd/cutting/ars_nouveau/archwood_wood' })
+
     e.shapeless('patchouli:guide_book[patchouli:book="advancedperipherals:manual"]', ['minecraft:book', 'computercraft:computer_normal']).id('geersandqueers:book_adv_per')
     e.shapeless('minecraft:chest', ['#c:chests']).id('geersandqueers:chests_alt')
     e.shaped('nomansland:shelf_mushroom_block', [

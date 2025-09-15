@@ -1,4 +1,4 @@
-tellraw @a [{"translate": "Successfully loaded ","color": "gray"},{"translate": "True Ending v1.1.2d","color": "green"}]
+### tellraw @a [{"translate": "Successfully loaded ","color": "gray"},{"translate": "True Ending v1.1.2d","color": "green"}]
 
 ### Pack Installed
 
